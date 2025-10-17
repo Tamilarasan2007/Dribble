@@ -28,11 +28,8 @@ Publish the website in the LocalHost.
 ## PROGRAM :
 ```
 tamil.html
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Tamilarasan R - 25009942</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
@@ -108,8 +105,6 @@ tamil.html
 <footer class="text-white text-center" style="background-color:#212529; padding:15px 0; margin-top:20px; font-size:.85rem;">
   <p class="m-0">&copy; 2025 <span style="color:#ea4c89; font-weight:600;">Developed By TAMILARASAN R (25009942)</span> | Inspired by Dribble</p>
 </footer>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 ```
